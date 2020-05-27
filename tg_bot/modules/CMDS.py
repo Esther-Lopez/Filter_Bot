@@ -39,7 +39,6 @@ __help__ = """
 ○ Language : Python3.6
 ○ Library : [Pyrogram asyncio 0.16.1](https://docs.pyrogram.org/)
 ○ Developed by : [ജിന്ന്\" DQishtam](http://telegram.dog/Charlie_jin)
-○ Source Code : 👉 [Click Here](https://github.com/Ashkar2001/filter_bot)
 ○ Server : Heroku
 ○ Build Status : V4 `[+0.4]`
 """
